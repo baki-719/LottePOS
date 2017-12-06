@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LottePOS</string>
+    <string name="spinner_hint">Choose Category</string>
+</resources>
